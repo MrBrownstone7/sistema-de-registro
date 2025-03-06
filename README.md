@@ -1,1 +1,3 @@
-# sistema-de-registro
+# Sistema de Registro
+
+- Estado: en construcción
